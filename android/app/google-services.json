@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084116889400",
+    "project_id": "hifii-b0c77",
+    "storage_bucket": "hifii-b0c77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084116889400:android:d54fd7d849e6d713ac1bcd",
+        "android_client_info": {
+          "package_name": "com.hifii.customer.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084116889400-7mpfhh1j579ip2maf37f5jsj2c7smopd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArFuTukJqaXf6Jiw5ln0PHOxBuWcmsqlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084116889400-7mpfhh1j579ip2maf37f5jsj2c7smopd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
